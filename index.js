@@ -1,7 +1,6 @@
 const fs = require('fs');
 const frames = fs.readFileSync('./frames.txt', { encoding: 'utf-8', flag: 'r' }).split('8');
 
-
 (function render(index) {
     setTimeout(() => {
         console.clear();
