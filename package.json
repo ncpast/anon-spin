@@ -1,0 +1,15 @@
+{
+    "name": "anon-spin",
+    "version": "1.0.0",
+    "description": "ye",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "keywords": [
+        "anonymous",
+        "spin"
+    ],
+    "author": "pastas capalot",
+    "license": "ISC"
+}
