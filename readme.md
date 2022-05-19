@@ -13,11 +13,9 @@ then type the following commands:
 
 ```bash 
 # clone the repository
-
 git clone https://github.com/ncpast/anon-spin
 
 # cd into the folder
-
 cd ./anon-spin
 ```
 
